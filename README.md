@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChiranjeetDas
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Data Analytics
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Learning New Things
 - 📫 How to reach me - chiranjeetdas26@gmail.com
 
